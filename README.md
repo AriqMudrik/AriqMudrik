@@ -24,40 +24,37 @@ I am a **Full-Stack Web Developer** specializing in **Laravel**, **Vue.js**, and
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Tech Stack
 
-**Backend & Database**
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
-
-**Frontend**
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**DevOps, Containers & Workflow**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=laravel,php,vue,js,tailwind,html,css,mysql,docker,linux,git,github,postman&theme=dark" alt="Tech Stack" />
+  </a>
+</p>
 
 ---
 
-### 📊 GitHub Analytics
+### 📊 GitHub Analytics & Achievements
 
+<!-- GitHub Trophies -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AriqMudrik&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="AriqMudrik GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AriqMudrik&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="AriqMudrik Top Languages" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AriqMudrik&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" width="95%" alt="AriqMudrik GitHub Trophies" />
+</p>
+
+<!-- Stats Card & Top Languages (Sejajar & Proporsional) -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AriqMudrik&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8&icon_color=38bdf8&text_color=e2e8f0" height="175" alt="AriqMudrik GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AriqMudrik&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8&text_color=e2e8f0" height="175" alt="AriqMudrik Top Languages" />
+</p>
+
+<!-- GitHub Streak Stats -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AriqMudrik&theme=tokyonight&hide_border=true&background=0f172a&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" width="65%" alt="AriqMudrik GitHub Streak" />
 </p>
 
 <!-- Grafik Aktivitas Kontribusi -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AriqMudrik&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="AriqMudrik Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AriqMudrik&bg_color=0f172a&color=38bdf8&line=38bdf8&point=e2e8f0&area=true&hide_border=true" width="95%" alt="AriqMudrik Contribution Graph" />
 </p>
 
 <!-- Footer Wave Animasi -->
