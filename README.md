@@ -47,15 +47,6 @@ I am a **Full-Stack Web Developer** specializing in **Laravel**, **Vue.js**, and
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AriqMudrik&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8&text_color=e2e8f0" height="175" alt="AriqMudrik Top Languages" />
 </p>
 
-<!-- GitHub Streak Stats -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AriqMudrik&theme=tokyonight&hide_border=true&background=0f172a&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" width="65%" alt="AriqMudrik GitHub Streak" />
-</p>
-
-<!-- Grafik Aktivitas Kontribusi -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AriqMudrik&bg_color=0f172a&color=38bdf8&line=38bdf8&point=e2e8f0&area=true&hide_border=true" width="95%" alt="AriqMudrik Contribution Graph" />
-</p>
 
 <!-- Footer Wave Animasi -->
 <p align="center">
