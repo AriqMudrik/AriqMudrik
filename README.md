@@ -34,18 +34,6 @@ I am a **Full-Stack Web Developer** specializing in **Laravel**, **Vue.js**, and
 
 ---
 
-### 📊 GitHub Analytics & Achievements
-
-<!-- GitHub Trophies -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AriqMudrik&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" width="95%" alt="AriqMudrik GitHub Trophies" />
-</p>
-
-<!-- Stats Card & Top Languages (Sejajar & Proporsional) -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AriqMudrik&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8&icon_color=38bdf8&text_color=e2e8f0" height="175" alt="AriqMudrik GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AriqMudrik&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8&text_color=e2e8f0" height="175" alt="AriqMudrik Top Languages" />
-</p>
 
 
 <!-- Footer Wave Animasi -->
